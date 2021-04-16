@@ -811,13 +811,13 @@ buttonfeedback {
 
 .morefeedbacks {
     border-radius: 6px;
-    background-color: #ffc107;
+    background-color: #3ec6ff;
     width: 172px;
     height: 42px;
     border-color: #3ec6ff;
     margin-left: 50%;
     margin-bottom: 20px;
-    color: #000000;
+    color: #ffffff;
 }
 
 
